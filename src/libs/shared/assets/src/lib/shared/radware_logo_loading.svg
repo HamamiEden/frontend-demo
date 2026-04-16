@@ -1,0 +1,26 @@
+<svg width="27" height="20" viewBox="0 0 27 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="23.9517" cy="2.97872" rx="3.04839" ry="2.97872" fill="#030304">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" repeatCount="indefinite" values="1; 0; 1;" keyTimes="0; 0.5; 1" begin="0s"/>
+</ellipse>
+<ellipse cx="16.9839" cy="10.0002" rx="3.04839" ry="2.97872" fill="#F8AE3D">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" repeatCount="indefinite" values="1; 0; 1;" keyTimes="0; 0.5; 1" begin="0.2s"/>
+</ellipse>
+<ellipse cx="23.9517" cy="10.0002" rx="3.04839" ry="2.97872" fill="#D0D2D3">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" repeatCount="indefinite" values="1; 0; 1;" keyTimes="0; 0.5; 1" begin="0.4s"/>
+</ellipse>
+<ellipse cx="16.9839" cy="17.0212" rx="3.04839" ry="2.97872" fill="#078540">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" repeatCount="indefinite" values="1; 0; 1;" keyTimes="0; 0.5; 1" begin="0.6s"/>
+</ellipse>
+<ellipse cx="10.0162" cy="17.0212" rx="3.04839" ry="2.97872" fill="#D0D2D3">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" repeatCount="indefinite" values="1; 0; 1;" keyTimes="0; 0.5; 1" begin="0.8s"/>
+</ellipse>
+<ellipse cx="16.9839" cy="2.97872" rx="3.04839" ry="2.97872" fill="#B4181E">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" repeatCount="indefinite" values="1; 0; 1;" keyTimes="0; 0.5; 1" begin="1s"/>
+</ellipse>
+<ellipse cx="10.0162" cy="2.97872" rx="3.04839" ry="2.97872" fill="#D0D2D3">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" repeatCount="indefinite" values="1; 0; 1;" keyTimes="0; 0.5; 1" begin="1.2s"/>
+</ellipse>
+<ellipse cx="3.04839" cy="2.97872" rx="3.04839" ry="2.97872" fill="#D0D2D3">
+    <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" repeatCount="indefinite" values="1; 0; 1;" keyTimes="0; 0.5; 1" begin="1.4s"/>
+</ellipse>
+</svg>
