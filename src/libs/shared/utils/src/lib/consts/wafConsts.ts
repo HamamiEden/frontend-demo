@@ -1,5 +1,0 @@
-export const WAF_ACTIVITY_LOG_STATUSES = {
-  IN_PROCESS: "IN_PROCESS",
-  SUCCESS: "SUCCESS",
-  FAIL: "FAIL",
-};
